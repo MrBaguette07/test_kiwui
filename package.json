@@ -1,0 +1,19 @@
+{
+  "name": "test_kiwui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "kiwui-scripts dev",
+    "start": "kiwui-scripts start",
+    "build": "kiwui-scripts build"
+  },
+  "dependencies": {
+    "kiwui": "1.0.0",
+    "kiwui-dom": "1.0.0",
+    "kiwui-scripts": "1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.0",
+    "typescript": "5.3.3"
+  }
+}
